@@ -64,6 +64,141 @@
         </div>
     </div>
     @endfor
+    <div class="col-md-12 "><br><br>
+        <div class="horizontal-line"> </div>
+        <br><br>
+    </div>
+    <div class="col-md-12">
+        <h1 class="text-center text-muted">Live gaming Stream</h1>
+    </div>
+    <div class="col-md-12 "><br><br>
+        <div class="horizontal-line"> </div>
+        <br><br><br><br>
+    </div>
+    <div class="col-md-3">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/live_user_abyssoid-320x180.jpg') }}')  center;     height: 250px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-8 border-right">
+                        <div class="description-block h3" style="word-wrap: break-word;">
+                            Attacker - Getting MMR
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                    <div class="col-sm-4">
+                        <div class="description-block">
+                            <span class="h3">
+                                462
+                            </span><br>
+                            watchers
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                </div>
+                <!-- /.row -->
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/live_user_dotademon-320x180.jpg') }}')  center;     height: 250px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-8 border-right">
+                        <div class="description-block h3" style="word-wrap: break-word;">
+                            @MerliniDota, dota
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                    <div class="col-sm-4">
+                        <div class="description-block">
+                            <span class="h3">
+                                150
+                            </span><br>
+                            watchers
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                </div>
+                <!-- /.row -->
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/live_user_gamefantv-320x180.jpg') }}')  center;     height: 250px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-8 border-right">
+                        <div class="description-block h3" style="word-wrap: break-word;">
+                            Lorem ipsum title of video blah blah
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                    <div class="col-sm-4">
+                        <div class="description-block">
+                            <span class="h3">
+                                10
+                            </span><br>
+                            watchers
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                </div>
+                <!-- /.row -->
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/live_user_samnix0n-320x180.jpg') }}')  center;     height: 250px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-8 border-right">
+                        <div class="description-block h3" style="word-wrap: break-word;">
+                            @MerliniDota, dota
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                    <div class="col-sm-4">
+                        <div class="description-block">
+                            <span class="h3">
+                                1040
+                            </span><br>
+                            watchers
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                </div>
+                <!-- /.row -->
+            </div>
+        </div>
+    </div>
 </div>
 
 
