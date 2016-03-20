@@ -1,4 +1,4 @@
-<footer class="main-footer " style='background: #1e1e1e;'>
+<footer class="main-footer " style='background: #2d3033;'>
     <div class="container" >
         <div class="col-md-12 text-center text-white">
             <strong>Copyright © 2015-{{ date('Y') }} <a href="{{ action('HomeController@getIndex') }}">Education KS</a>.</strong> All rights

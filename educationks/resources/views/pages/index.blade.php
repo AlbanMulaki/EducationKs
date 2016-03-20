@@ -199,6 +199,236 @@
             </div>
         </div>
     </div>
+    
+    
+    <div class="col-md-12 "><br><br>
+        <div class="horizontal-line"> </div>
+        <br><br>
+    </div>
+    <div class="col-md-12">
+        <h1 class="text-center text-muted">Live gaming Stream Game</h1>
+    </div>
+    <div class="col-md-12 "><br><br>
+        <div class="horizontal-line"> </div>
+        <br><br><br><br>
+    </div>
+    
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/Call of Duty: Black Ops III-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Call Of duty Black Ops II
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/Counter-Strike: Global Offensive-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Counter-Strike: Global Offensive
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/Grand Theft Auto V-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Grand Theft Auto V
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/H1Z1: King of the Kill-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            H1Z1: King of the Kill
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/League of Legends-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            League of Legends
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/H1Z1: King of the Kill-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Call Of duty Black Ops II
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/League of Legends-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Call Of duty Black Ops II
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/Grand Theft Auto V-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Call Of duty Black Ops II
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/Call of Duty: Black Ops III-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Call Of duty Black Ops II
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/Counter-Strike: Global Offensive-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Call Of duty Black Ops II
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/Call of Duty: Black Ops III-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Call Of duty Black Ops II
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2">
+        <div class="box box-widget widget-user">
+            <div class="widget-user-header bg-black" style="cursor: pointer; background: url('{{ asset('assets/img/Call of Duty: Black Ops III-272x380.jpg') }}')  center;     height: 200px;">
+                <h5 class="widget-user-desc">
+                    <label class="label-default label label-lg">Livestream</label>
+                </h5>
+            </div>
+            <div class="box-footer" style="padding-top: 0px;">
+                <div class="row">
+                    <div class="col-sm-12 border-right">
+                        <div class="description-block h4" style="word-wrap: break-word;">
+                            Call Of duty Black Ops II
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 
