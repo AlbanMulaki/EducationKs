@@ -1,0 +1,6 @@
+[2016-03-18 22:25:17] development.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Undefined class constant 'VERSION_AUTOPUB_DEV'' in /home/educationks/educationks/storage/framework/views/7552cdfc5082b9aa3c9bba2f1abfc1c246c6f2b3.php:3
+Stack trace:
+#0 {main}  
+[2016-03-18 22:25:22] development.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Undefined class constant 'VERSION_AUTOPUB_DEV'' in /home/educationks/educationks/storage/framework/views/7552cdfc5082b9aa3c9bba2f1abfc1c246c6f2b3.php:3
+Stack trace:
+#0 {main}  
